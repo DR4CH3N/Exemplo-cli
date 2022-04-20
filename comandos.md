@@ -27,7 +27,7 @@
 ## adiciona uma referencia do repositorio remoto no ambiente local
 `git remote add origin https://github.com/DR4CH3N/Exemplo-cli.git`
 
-## fazendo push (envio para o repositorio remoto)
+## fazendo push (envio para o repositorio remoto) (com -u somente 1x)
 `git push -u origin main`
 
 ## para mais informações de comandos
