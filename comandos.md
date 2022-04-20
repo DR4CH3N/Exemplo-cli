@@ -3,7 +3,7 @@
 ## inicializar repositorio:
 `git init`
 
-## adiciona o arquivo ao git (coloca o stash)
+## adiciona o arquivo ao git (coloca o stash) (use o mesmo comando caso quiser fazer alguma modificação no arquivo)
 `git add nome-arquivo`
 
 ## adiciona varios arquivos ao git (coloca na memoria)
